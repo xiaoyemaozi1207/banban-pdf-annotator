@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1.6",
-  "versionText": "3.2.1.6 (Beta)",
-  "notes": "修复白板橡皮指示圈范围、解锁Beta更新通道、修复白板布局和笔记恢复",
-  "download": "https://my.feishu.cn/file/Jd8IbEao3oq6Avxhu6zcvastnJg"
+  "version": "3.2.1.7",
+  "versionText": "3.2.1.7 (Beta)",
+  "notes": "测试版本：用于验证 Beta 更新通道是否正常工作，功能与 3.2.1.6 一致",
+  "download": "https://my.feishu.cn/file/S1WOby2KWoMb9qxospRcG9gtnxf"
 }
