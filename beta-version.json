@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1.7",
-  "versionText": "3.2.1.7 (Beta)",
-  "notes": "测试版本：用于验证 Beta 更新通道是否正常工作，功能与 3.2.1.6 一致",
-  "download": "https://my.feishu.cn/file/S1WOby2KWoMb9qxospRcG9gtnxf"
+  "version": "3.2.1.8",
+  "versionText": "3.2.1.8 (Beta)",
+  "notes": "修复手势擦除后不自动切回笔；安装目录改为BanbanPDF避免旧目录冲突；新增程序内下载更新（不弹浏览器）",
+  "download": "https://my.feishu.cn/file/Jd8IbEao3oq6Avxhu6zcvastnJg"
 }
