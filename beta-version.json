@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "主页隐藏空缩略图侧边栏、底部白条修复、欢迎语优化；清理安装包目录；修复白板切回PDF位置偏移；底部工具栏精简",
-  "download": "https://wwbsj.lanzoul.com/iZrlE49z9qva"
+  "notes": "修复白板resize布局错乱；手掌擦除进行中再落手指的守卫；2指聚拢阈值收紧减少捏合误触；修复启动笔粗滑杆钳10；title版本号修正；C#显式接管JS对话框",
+  "download": "https://wwbsj.lanzoul.com/iODFI4a0eezi"
 }
