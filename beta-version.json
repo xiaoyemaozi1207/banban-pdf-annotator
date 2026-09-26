@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1.9",
-  "versionText": "3.2.1.9 (Beta)",
-  "notes": "修复手掌擦除后工具不恢复、笔迹存不下来的严重bug；修复白板resize布局；2指捏合缩放不再误触；修复滑杆启动钳10；清除弹窗正常显示",
-  "download": "https://wwbsj.lanzoul.com/ilAOR4a0ieqd"
+  "version": "3.2.2.1",
+  "versionText": "3.2.2.1 Beta",
+  "notes": "测试蓝奏云自动更新链路",
+  "download": "https://wwbsj.lanzoul.com/i8blK4a11dsd"
 }
