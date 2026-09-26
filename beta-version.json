@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "修复手势擦除后不自动切回笔；安装目录改为BanbanPDF避免旧目录冲突；新增程序内下载更新（蓝奏云免登录，WebView2自动处理反爬并点击下载）",
-  "download": "https://wwbsj.lanzoul.com/iZ8uB49z6c9g"
+  "notes": "修复手势擦除后不自动切回笔（红外屏pointerup兜底）；修复返回主页卡白屏（主页显示移到最前+全try-catch）；安装目录改为BanbanPDF；蓝奏云免登录程序内下载更新",
+  "download": "https://wwbsj.lanzoul.com/iUqr349z6t0j"
 }
