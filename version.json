@@ -1,9 +1,7 @@
 {
-  "version": "3.2.1.4",
-  "versionText": "3.2.1.4 (Beta)",
-  "date": "2026-09-23",
-  "notes": "修复手掌擦除第一下擦不掉；修复三指拖动被误判为手掌；修复橡皮默认2px太细；修复擦后不自动切回笔；设置标注红外屏用手掌识别范围。",
-  "download": "https://my.feishu.cn/file/Jd8IbEao3oq6Avxhu6zcvastnJg",
-  "downloadHtml": "https://my.feishu.cn/file/Cs1JbxrxNoO9tYx23lUcrkJRnzb",
-  "downloadPortable": "https://my.feishu.cn/file/OYg4bmXmuoQlwOxVaFMczcsInoh"
+  "version": "3.2.2",
+  "versionText": "3.2.2 正式版",
+  "date": "2026-09-26",
+  "notes": "修复检查更新静默失效；统一白板与PDF笔迹粗细；修复手掌擦除后工具不恢复；修复白板布局错乱",
+  "download": "https://wwbsj.lanzoul.com/iceek4a0zd3g"
 }
