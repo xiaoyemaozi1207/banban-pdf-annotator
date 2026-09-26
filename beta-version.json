@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "修复手势擦除后不自动切回笔；安装目录改为BanbanPDF避免旧目录冲突；新增程序内下载更新（蓝奏云免登录直链，班班通无需登录任何账号）",
-  "download": "https://wwbsj.lanzoul.com/iIYqK49z68be"
+  "notes": "修复手势擦除后不自动切回笔；安装目录改为BanbanPDF避免旧目录冲突；新增程序内下载更新（蓝奏云免登录，WebView2自动处理反爬并点击下载）",
+  "download": "https://wwbsj.lanzoul.com/iZ8uB49z6c9g"
 }
