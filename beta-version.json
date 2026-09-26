@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "清理安装包目录结构（1_安装版只含安装器+WebView2引导包）；修复白板切回PDF后位置偏移；底部工具栏精简；修复手势擦除活跃触点计数",
-  "download": "https://wwbsj.lanzoul.com/ilG2F49z8oij"
+  "notes": "主页隐藏空缩略图侧边栏、底部白条修复、欢迎语优化；清理安装包目录；修复白板切回PDF位置偏移；底部工具栏精简",
+  "download": "https://wwbsj.lanzoul.com/iZrlE49z9qva"
 }
