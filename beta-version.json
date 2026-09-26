@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "修复手势擦除后不自动切回笔（红外屏pointerup兜底）；修复返回主页卡白屏（主页显示移到最前+全try-catch）；安装目录改为BanbanPDF；蓝奏云免登录程序内下载更新",
-  "download": "https://wwbsj.lanzoul.com/iUqr349z6t0j"
+  "notes": "修复手势擦除后不自动切回笔（活跃触点计数器替代e.buttons，红外屏可靠）；修复手掌擦除时pointer事件重复处理（onDown/onMove加手掌判断）；修复返回主页卡白屏；安装目录改为BanbanPDF；蓝奏云免登录程序内下载更新",
+  "download": "https://wwbsj.lanzoul.com/iHDmA49z7ddc"
 }
