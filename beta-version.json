@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "修复白板切回PDF后位置偏移（切回时重置缩放和平移）；底部工具栏精简；修复手势擦除活跃触点计数；修复手掌擦除pointer事件重复处理",
-  "download": "https://wwbsj.lanzoul.com/i7ZYh49z8k6d"
+  "notes": "清理安装包目录结构（1_安装版只含安装器+WebView2引导包）；修复白板切回PDF后位置偏移；底部工具栏精简；修复手势擦除活跃触点计数",
+  "download": "https://wwbsj.lanzoul.com/ilG2F49z8oij"
 }
