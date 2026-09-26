@@ -1,6 +1,6 @@
 {
   "version": "3.2.1.8",
   "versionText": "3.2.1.8 (Beta)",
-  "notes": "底部工具栏精简：移除形状选择（自由笔/直线/箭头）默认自由笔，移除缩放加减按钮只保留百分比，白板移到百分比右侧；修复手势擦除活跃触点计数；修复手掌擦除pointer事件重复处理",
-  "download": "https://wwbsj.lanzoul.com/iF5hU49z7khi"
+  "notes": "修复白板切回PDF后位置偏移（切回时重置缩放和平移）；底部工具栏精简；修复手势擦除活跃触点计数；修复手掌擦除pointer事件重复处理",
+  "download": "https://wwbsj.lanzoul.com/i7ZYh49z8k6d"
 }
