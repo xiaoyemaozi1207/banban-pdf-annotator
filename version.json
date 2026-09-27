@@ -1,7 +1,7 @@
 {
-  "version": "3.2.2",
-  "versionText": "3.2.2 正式版",
-  "date": "2026-09-26",
-  "notes": "修复检查更新静默失效；统一白板与PDF笔迹粗细；修复手掌擦除后工具不恢复；修复白板布局错乱",
-  "download": "https://wwbsj.lanzoul.com/iceek4a0zd3g"
+  "version": "3.2.3",
+  "versionText": "3.2.3 正式版",
+  "date": "2026-09-27",
+  "notes": "修复橡皮圈拖动页面后偏移；白板自动适配视口统一笔迹粗细；安装包覆盖旧版修复；下载失败降级浏览器下载",
+  "download": "https://wwbsj.lanzoul.com/i0l1X4a2sn3g"
 }
