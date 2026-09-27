@@ -2,6 +2,6 @@
   "version": "3.2.4",
   "versionText": "3.2.4 正式版",
   "date": "2026-09-28",
-  "notes": "修复橡皮指示圈消失；新增白板笔迹加粗设置；默认关闭2-3指聚拢擦除；修复手掌擦除指示圈与实际擦除范围不一致",
-  "download": "https://wwbsj.lanzoul.com/ilfuz4a5qbda"
+  "notes": "修复橡皮指示圈消失；新增白板笔迹加粗设置；默认关闭2-3指聚拢擦除；修复手掌擦除指示圈与实际擦除范围不一致；修复蓝奏云自动下载遇重定向页失效",
+  "download": "https://wwbsj.lanzoul.com/idqFl4a5qzhi"
 }
