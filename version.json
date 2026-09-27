@@ -1,7 +1,7 @@
 {
-  "version": "3.2.3",
-  "versionText": "3.2.3 正式版",
-  "date": "2026-09-27",
-  "notes": "修复橡皮圈拖动页面后偏移；白板自动适配视口统一笔迹粗细；安装包覆盖旧版修复；下载失败降级浏览器下载",
-  "download": "https://wwbsj.lanzoul.com/i0l1X4a2sn3g"
+  "version": "3.2.4",
+  "versionText": "3.2.4 正式版",
+  "date": "2026-09-28",
+  "notes": "修复橡皮指示圈消失；新增白板笔迹加粗设置；默认关闭2-3指聚拢擦除",
+  "download": "https://wwbsj.lanzoul.com/iBgfc4a5pt4d"
 }
