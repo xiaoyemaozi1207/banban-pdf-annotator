@@ -2,6 +2,6 @@
   "version": "3.2.5.2",
   "versionText": "3.2.5.2 Beta",
   "date": "2026-09-29",
-  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本",
-  "download": "https://wwbsj.lanzoul.com/iXf4o4aagvkh"
+  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本；修复openPdfData和renderPage被误删的代码",
+  "download": "https://wwbsj.lanzoul.com/iC2E54aahfgd"
 }
