@@ -1,7 +1,7 @@
 {
-  "version": "3.2.5.1",
-  "versionText": "3.2.5.1 Beta",
-  "date": "2026-09-28",
-  "notes": "笔迹粗细改为屏幕像素固定，白板与PDF手感一致；移除白板笔迹加粗设置",
-  "download": "https://wwbsj.lanzoul.com/iure74a7x5lg"
+  "version": "3.2.5.2",
+  "versionText": "3.2.5.2 Beta",
+  "date": "2026-09-29",
+  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本",
+  "download": "https://wwbsj.lanzoul.com/iXf4o4aagvkh"
 }
