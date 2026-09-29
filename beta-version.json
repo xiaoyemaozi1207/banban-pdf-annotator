@@ -1,7 +1,7 @@
 {
-  "version": "3.2.5.2",
-  "versionText": "3.2.5.2 Beta",
+  "version": "3.2.5.3",
+  "versionText": "3.2.5.3 Beta",
   "date": "2026-09-29",
-  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本；程序内下载增加转圈反馈+12秒超时兜底+UA伪装Chrome；修复超时降级时window.open被误导航到WebView2",
-  "download": "https://wwbsj.lanzoul.com/izdMr4acbztc"
+  "notes": "程序内下载增加转圈反馈+12秒超时兜底；修复超时降级打开浏览器被误导航到WebView2；Toast立即更新也加超时兜底；NewWindowRequested判断条件放宽支持/file//download/.zip/.exe",
+  "download": "https://wwbsj.lanzoul.com/i0mlu4acccpg"
 }
