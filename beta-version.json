@@ -2,6 +2,6 @@
   "version": "3.2.5.2",
   "versionText": "3.2.5.2 Beta",
   "date": "2026-09-29",
-  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本；程序内下载增加转圈反馈+12秒超时兜底+UA伪装Chrome",
-  "download": "https://wwbsj.lanzoul.com/i2QPb4acazah"
+  "notes": "默认笔迹6px橡皮28px；白板切回PDF自动填充；修复Beta更新通道双源并行取最高版本；程序内下载增加转圈反馈+12秒超时兜底+UA伪装Chrome；修复Toast入口下载无超时兜底",
+  "download": "https://wwbsj.lanzoul.com/ij4SZ4acb3md"
 }
