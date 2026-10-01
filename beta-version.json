@@ -1,7 +1,7 @@
 {
-  "version": "3.2.5.3",
-  "versionText": "3.2.5.3 Beta",
-  "date": "2026-09-29",
-  "notes": "程序内下载增加转圈反馈+12秒超时兜底；修复超时降级打开浏览器被误导航到WebView2；Toast立即更新也加超时兜底；NewWindowRequested判断条件放宽支持/file//download/.zip/.exe",
-  "download": "https://wwbsj.lanzoul.com/i0mlu4acccpg"
+  "version": "3.2.5.4",
+  "versionText": "3.2.5.4 Beta",
+  "date": "2026-10-01",
+  "notes": "修复四指擦除橡皮圈固定在某一指上；修复四指擦除中心乱跳；修复橡皮圈显示慢半拍；修复长按弹出Edge右键菜单；修复移动模式下多指误触发橡皮擦除；修复首页选择文件夹点击无反应；C#侧禁用右键菜单/状态栏/缩放/快捷键；带图标编译",
+  "download": "https://wwbsj.lanzoul.com/iKqMz4ajgu8d"
 }
