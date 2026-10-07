@@ -1,7 +1,7 @@
 {
-  "version": "5.0.0.1",
-  "versionText": "5.0.0.1 Beta",
-  "date": "2026-10-07",
-  "notes": "新增多老师身份系统：首页一键切换，每位老师独立保存设置；缩略图改为点页码弹出，释放画布空间（设置里可切回常驻侧边栏）；修复两侧工具栏颜色按钮不同步（点红笔只亮一侧）；优化白板性能：canvas面积减少55%，恢复GPU加速",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.1/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.1_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.0.2",
+  "versionText": "5.0.0.2 Beta",
+  "date": "2026-10-08",
+  "notes": "修复老师个性化设置被反复重置（笔粗/橡皮改完又变回默认）；修复缩略图弹窗点外空白处关不掉；修复主页勾常驻缩略图会误显示侧边栏；修复安装时可能误杀其他程序的WebView2进程；修复缩略图弹窗关闭后仍在后台渲染（大PDF卡顿）",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
