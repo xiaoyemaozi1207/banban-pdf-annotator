@@ -2,6 +2,6 @@
   "version": "5.0.0.2",
   "versionText": "5.0.0.2 Beta",
   "date": "2026-10-08",
-  "notes": "修复老师个性化设置被反复重置（笔粗/橡皮改完又变回默认）；修复缩略图弹窗点外空白处关不掉；修复主页勾常驻缩略图会误显示侧边栏；修复安装时可能误杀其他程序的WebView2进程；修复缩略图弹窗关闭后仍在后台渲染（大PDF卡顿）",
+  "notes": "加入老师身份选择系统：打开软件先选身份，笔粗/颜色/工具栏位置自动跟上；首页改版更清爽；新建身份预填旧设置",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
