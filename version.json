@@ -1,7 +1,7 @@
 {
-  "version": "5.0.1",
-  "versionText": "5.0.1 正式版",
-  "date": "2026-10-08",
-  "notes": "新增多老师身份系统：打开软件先选身份，笔粗/颜色/工具栏位置自动跟上；首页改版更清爽；安装器更稳，覆盖安装不再卡；修复缩略图重叠、首页列表撑破等十几处问题",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.1/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.1_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "3.3.0",
+  "versionText": "3.3.0 正式版",
+  "date": "2026-10-07",
+  "notes": "修复四指擦除橡皮圈固定在某一指上、中心乱跳、显示慢半拍；修复长按弹出右键菜单干扰书写；修复移动模式多指误触发橡皮；修复首页选文件夹在部分环境点击无反应；优化白板性能：canvas面积减少55%，恢复GPU加速，书写流畅；修复两侧工具栏颜色按钮不同步（点红笔只亮一侧）",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v3.3.0/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B73.3.0_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
