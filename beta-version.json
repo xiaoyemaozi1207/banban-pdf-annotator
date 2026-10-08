@@ -1,7 +1,7 @@
 {
-  "version": "5.0.0.2",
-  "versionText": "5.0.0.2 Beta",
+  "version": "5.0.0.3",
+  "versionText": "5.0.0.3 Beta",
   "date": "2026-10-08",
-  "notes": "加入老师身份选择系统：打开软件先选身份，笔粗/颜色/工具栏位置自动跟上；首页改版更清爽；新建身份预填旧设置",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "notes": "修复安装卡在正在复制主程序（taskkill强杀+rename兜底+日志诊断）；修复缩略图页数多时重叠；修复首页列表内容多时撑破布局",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
