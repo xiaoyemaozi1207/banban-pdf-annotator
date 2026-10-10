@@ -1,7 +1,7 @@
 {
-  "version": "5.0.1",
-  "versionText": "5.0.1 正式版",
-  "date": "2026-10-09",
-  "notes": "新增多老师身份系统：打开软件先选身份，笔粗/颜色/工具栏位置自动跟上；首页改版更清爽；新增小惊喜：第一次选身份会看到表情包；姓名自动补全老师；恢复身份编辑/删除入口；修复安装卡复制主程序、缩略图重叠、首页列表撑破等问题",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.1/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.1_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.2",
+  "versionText": "5.0.2 正式版",
+  "date": "2026-10-10",
+  "notes": "修复检查更新读不到最新版本（CDN缓存问题）；新增错误日志导出；新增老师数据导出/导入；老师编辑入口改成大按钮弹窗；首页布局优化：桌面PDF和我的文件夹并排显示",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
