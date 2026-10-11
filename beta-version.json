@@ -1,7 +1,7 @@
 {
-  "version": "5.0.0.3",
-  "versionText": "5.0.0.3 Beta",
-  "date": "2026-10-08",
-  "notes": "修复安装卡在正在复制主程序（taskkill强杀+rename兜底+日志诊断）；修复缩略图页数多时重叠；修复首页列表内容多时撑破布局",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.0.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.0.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.2.1",
+  "versionText": "5.0.2.1 (Beta)",
+  "date": "2026-10-11",
+  "notes": "新增开发者功能：设置→关于连点版本号7次+密码进入；新增运行日志：记录操作全过程；新增完整日志导出：环境信息+事件流+错误日志三段式；错误日志容量从200条提升到1000条",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.1/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2.1_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
