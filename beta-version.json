@@ -1,7 +1,7 @@
 {
-  "version": "5.0.2.1",
-  "versionText": "5.0.2.1 (Beta)",
+  "version": "5.0.2.2",
+  "versionText": "5.0.2.2 (Beta)",
   "date": "2026-10-11",
-  "notes": "新增开发者功能：设置→关于连点版本号7次+密码进入；新增运行日志：记录操作全过程；新增完整日志导出：环境信息+事件流+错误日志三段式；错误日志容量从200条提升到1000条",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.1/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2.1_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "notes": "修复计算器按钮与底部工具栏重叠；修复计算器右上角✕按钮点不动；修复清除笔记要弹两次确认框；移除表情包弹窗，包体积减约100KB",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
