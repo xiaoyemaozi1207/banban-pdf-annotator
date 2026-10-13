@@ -1,7 +1,7 @@
 {
-  "version": "5.0.2.2",
-  "versionText": "5.0.2.2 (Beta)",
-  "date": "2026-10-11",
-  "notes": "修复计算器按钮与底部工具栏重叠；修复计算器右上角✕按钮点不动；修复清除笔记要弹两次确认框；移除表情包弹窗，包体积减约100KB",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.2.3",
+  "versionText": "5.0.2.3 (Beta)",
+  "date": "2026-10-13",
+  "notes": "面积擦除：手掌蹭一下自动擦，按接触面积决定擦除范围；设置里可切面积/四指/两者",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.3/班班通PDF批注工具5.0.2.3_桌面安装版.zip"
 }
