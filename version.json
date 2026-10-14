@@ -1,7 +1,7 @@
 {
-  "version": "5.0.2",
-  "versionText": "5.0.2 正式版",
-  "date": "2026-10-10",
-  "notes": "修复检查更新读不到最新版本（CDN缓存问题）；新增错误日志导出；新增老师数据导出/导入；老师编辑入口改成大按钮弹窗；首页布局优化：桌面PDF和我的文件夹并排显示",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.2_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.3",
+  "versionText": "5.0.3 正式版",
+  "date": "2026-10-14",
+  "notes": "新增面积擦除：手掌蹭一下自动擦，按接触面积决定擦除范围；设置→画笔新增擦除方式：面积/四指/两者，默认两者；修复计算器按钮与底部工具栏重叠、关闭按钮点不动、清除笔记弹两次确认框；优化安装流程，火绒环境下可正常覆盖安装；便携版WebView2 DLL版本对齐",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
