@@ -1,7 +1,7 @@
 {
-  "version": "5.0.2.3",
-  "versionText": "5.0.2.3 (Beta)",
-  "date": "2026-10-13",
-  "notes": "面积擦除：手掌蹭一下自动擦，按接触面积决定擦除范围；设置里可切面积/四指/两者",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.3/班班通PDF批注工具5.0.2.3_桌面安装版.zip"
+  "version": "5.0.3",
+  "versionText": "5.0.3 正式版",
+  "date": "2026-10-14",
+  "notes": "面积擦除正式上线；修复计算器和安装流程问题；便携版DLL对齐",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
 }
