@@ -1,7 +1,7 @@
 {
-  "version": "5.0.3",
-  "versionText": "5.0.3 正式版",
-  "date": "2026-10-14",
-  "notes": "面积擦除正式上线；修复计算器和安装流程问题；便携版DLL对齐",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip"
+  "version": "5.0.3.1",
+  "versionText": "5.0.3.1 (Beta)",
+  "date": "2026-10-17",
+  "notes": "计算器4×5双页手表风格改造：新增2nd分页、科学函数页（sin/cos/tan/√/x²/x³/log/ln/π/e/%/^/括号）、±取反二次去重",
+  "download": "https%3A%2F%2Fgitee.com%2Fxiaoyemaozi%2Fbanban-pdf-annotator%2Freleases%2Fdownload%2Fv5.0.3.1%2F%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.1_%E4%BE%BF%E6%90%BA%E7%89%88.zip"
 }
