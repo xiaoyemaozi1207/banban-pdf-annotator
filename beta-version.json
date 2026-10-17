@@ -1,7 +1,7 @@
 {
-  "version": "5.0.3.2",
-  "versionText": "5.0.3.2 (Beta)",
+  "version": "5.0.3.3",
+  "versionText": "5.0.3.3 (Beta)",
   "date": "2026-10-17",
-  "notes": "文件夹持久化+多老师独立文件夹（启动自动恢复、每老师独立路径）；修复计算器按钮填充与面板位置",
-  "download": "https%3A%2F%2Fgitee.com%2Fxiaoyemaozi%2Fbanban-pdf-annotator%2Freleases%2Fdownload%2Fv5.0.3.2%2F%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.2_%E4%BE%BF%E6%90%BA%E7%89%88.zip"
+  "notes": "缩略图懒加载+运行日志内存缓冲",
+  "download": "https%3A%2F%2Fgitee.com%2Fxiaoyemaozi%2Fbanban-pdf-annotator%2Freleases%2Fdownload%2Fv5.0.3.3%2F%25E7%258F%25AD%25E7%258F%25AD%25E9%2580%259APDF%25E6%2589%25B9%25E6%25B3%25A8%25E5%25B7%25A5%25E5%2585%25B75.0.3.3_%25E4%25BE%25BF%25E6%2590%25BA%25E7%2589%2588.zip"
 }
