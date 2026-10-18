@@ -1,6 +1,15 @@
 {
-  "latest": "5.1.0.1",
+  "latest": "5.1.0.2",
   "versions": [
+    {
+      "version": "5.1.0.2",
+      "versionText": "5.1.0.2 (Beta)",
+      "date": "2026-10-19",
+      "notes": "修复：正式通道Beta污染+下载URL双重编码崩溃",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_portable.zip",
+      "size": "1.4MB",
+      "stable": false
+    },
     {
       "version": "5.1.0.1",
       "versionText": "5.1.0.1 (Beta)",
