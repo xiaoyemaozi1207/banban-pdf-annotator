@@ -1,6 +1,17 @@
 {
-  "latest": "5.1.0.2",
+  "latest": "5.1.0.3",
   "versions": [
+    {
+      "version": "5.1.0.3",
+      "versionText": "5.1.0.3 (Beta)",
+      "date": "2026-10-19",
+      "notes": "修复画笔渲染逻辑丢失致命Bug；更新模块全面重构（HttpClient流式下载+进度条+MD5校验+自动识别安装/便携包）；修复云端download误填便携版；跨页悬浮贴纸+双指右滑撤销+多版本回退",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_portable.zip",
+      "md5": "731b8c04b33e4ccf361e29b30c3164f5",
+      "size": "3.1MB",
+      "stable": false
+    },
     {
       "version": "5.1.0.2",
       "versionText": "5.1.0.2 (Beta)",
