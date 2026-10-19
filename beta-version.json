@@ -6,8 +6,9 @@
       "versionText": "5.1.0.2 (Beta)",
       "date": "2026-10-19",
       "notes": "修复：正式通道Beta污染+下载URL双重编码崩溃",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_portable.zip",
-      "size": "1.4MB",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_portable.zip",
+      "size": "3.1MB",
       "stable": false
     },
     {
@@ -15,8 +16,9 @@
       "versionText": "5.1.0.1 (Beta)",
       "date": "2026-10-17",
       "notes": "多版本更新通道+跨页悬浮贴纸+双指右滑撤销",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_portable.zip",
-      "size": "1.4MB",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_portable.zip",
+      "size": "3.1MB",
       "stable": false
     },
     {
@@ -24,8 +26,9 @@
       "versionText": "5.0.3.3 (Beta)",
       "date": "2026-10-17",
       "notes": "缩略图懒加载+运行日志内存缓冲",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E4%BE%BF%E6%90%BA%E7%89%88.zip",
-      "size": "1.4MB",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E4%BE%BF%E6%90%BA%E7%89%88.zip",
+      "size": "3.1MB",
       "stable": false
     }
   ]
