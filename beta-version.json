@@ -1,11 +1,22 @@
 {
-  "latest": "5.1.0.3",
+  "latest": "5.1.0.4",
   "versions": [
+    {
+      "version": "5.1.0.4",
+      "versionText": "5.1.0.4 (Beta)",
+      "date": "2026-10-20",
+      "notes": "修复侧边栏buildSidePanel截断导致身份框不弹/截图消失；多版本管理双按钮+独立锁定；双指右滑误触平移/缩放；云端老版本兼容（纯英文文件名）",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_portable.zip",
+      "md5": "6e5fcff1c507022466dc1072101a1f6d",
+      "size": "1.0MB",
+      "stable": false
+    },
     {
       "version": "5.1.0.3",
       "versionText": "5.1.0.3 (Beta)",
       "date": "2026-10-19",
-      "notes": "修复画笔渲染逻辑丢失致命Bug；更新模块全面重构（HttpClient流式下载+进度条+MD5校验+自动识别安装/便携包）；修复云端download误填便携版；跨页悬浮贴纸+双指右滑撤销+多版本回退",
+      "notes": "修复画笔渲染逻辑丢失致命Bug；更新模块全面重构",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_desktop.zip",
       "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_portable.zip",
       "md5": "731b8c04b33e4ccf361e29b30c3164f5",
