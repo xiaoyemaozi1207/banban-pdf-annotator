@@ -1,6 +1,6 @@
 {
-  "version": "5.1.0.5",
-  "versionText": "5.1.0.5 (Beta)",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_desktop.zip",
-  "notes": "Beta 测试版：长截屏/贴纸选中态/跨页吸附/设置页三页/双仓分流更新架构"
+  "version": "5.1.1",
+  "versionText": "5.1.1 正式版",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1/banban_5.1.1_desktop.zip",
+  "notes": "贴纸选中态+长截屏+跨页吸附+设置页三页+双仓分流更新架构"
 }
