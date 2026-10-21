@@ -1,8 +1,6 @@
 {
-  "version": "5.0.3",
-  "versionText": "5.0.3 正式版",
-  "date": "2026-10-14",
-  "notes": "正式版通道纯净数据（纯英文文件名，兼容老版本升级）",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3/banban_5.0.3_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3/banban_5.0.3_portable.zip"
+  "version": "5.1.0.5",
+  "versionText": "5.1.0.5",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_desktop.zip",
+  "notes": "重构更新模块+修复画笔丢失+新增长截屏/贴纸选中态/跨页吸附/设置页三页"
 }
