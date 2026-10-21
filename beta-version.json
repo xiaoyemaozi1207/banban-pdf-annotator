@@ -1,57 +1,6 @@
 {
-  "latest": "5.1.0.4",
-  "versions": [
-    {
-      "version": "5.1.0.4",
-      "versionText": "5.1.0.4 (Beta)",
-      "date": "2026-10-20",
-      "notes": "修复侧边栏buildSidePanel截断；多版本管理双按钮+独立锁定；双指右滑四重判定+缩放中心恢复；贴纸尺寸800px/上限3张/缓存清理；clearStickerUI keepCache修复；云端老版本兼容",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_desktop.zip",
-      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_portable.zip",
-      "md5": "355caa9a9dee139fdf1f4f744f9073a0",
-      "size": "6.7MB",
-      "stable": false
-    },
-    {
-      "version": "5.1.0.3",
-      "versionText": "5.1.0.3 (Beta)",
-      "date": "2026-10-19",
-      "notes": "修复画笔渲染逻辑丢失致命Bug；更新模块全面重构",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_desktop.zip",
-      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_portable.zip",
-      "md5": "731b8c04b33e4ccf361e29b30c3164f5",
-      "size": "3.1MB",
-      "stable": false
-    },
-    {
-      "version": "5.1.0.2",
-      "versionText": "5.1.0.2 (Beta)",
-      "date": "2026-10-19",
-      "notes": "修复：正式通道Beta污染+下载URL双重编码崩溃",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_desktop.zip",
-      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_portable.zip",
-      "size": "3.1MB",
-      "stable": false
-    },
-    {
-      "version": "5.1.0.1",
-      "versionText": "5.1.0.1 (Beta)",
-      "date": "2026-10-17",
-      "notes": "多版本更新通道+跨页悬浮贴纸+双指右滑撤销",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_desktop.zip",
-      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_portable.zip",
-      "size": "3.1MB",
-      "stable": false
-    },
-    {
-      "version": "5.0.3.3",
-      "versionText": "5.0.3.3 (Beta)",
-      "date": "2026-10-17",
-      "notes": "缩略图懒加载+运行日志内存缓冲",
-      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip",
-      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E4%BE%BF%E6%90%BA%E7%89%88.zip",
-      "size": "3.1MB",
-      "stable": false
-    }
-  ]
+  "version": "5.1.0.5",
+  "versionText": "5.1.0.5 (Beta)",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_desktop.zip",
+  "notes": "Beta 测试版：长截屏/贴纸选中态/跨页吸附/设置页三页/双仓分流更新架构"
 }
